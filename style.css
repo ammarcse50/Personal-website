@@ -81,11 +81,11 @@
   margin-bottom: 100px;
 } */
 
-.sec4 {
+/* .sec4 {
   background-image: url("Resources/footer-bg.png");
   background-repeat: no-repeat;
   height: 800px;
-}
+} */
 
 .client-sec {
   text-align: center;
@@ -113,4 +113,13 @@
   margin-top: 150px;
 
   text-align: center;
+}
+
+.mix1 {
+  background-image: url("Resources/footer-bg.png");
+
+  height: 500px;
+  background-repeat: no-repeat;
+
+  
 }
