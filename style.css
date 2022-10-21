@@ -1,0 +1,22 @@
+.body {
+}
+
+.header-area {
+}
+
+.half-width {
+  float: left;
+  width: 50%;
+}
+
+#peter {
+  width: 500px;
+  margin: 100px;
+  margin-left: 200px;
+}
+
+.header-area {
+  height: 500px;
+  background-image: url("Resources/header-bg.png");
+  background-repeat: no-repeat;
+}
