@@ -103,9 +103,10 @@
   background-color: #fa0a7a;
   width: 600px;
   height: 100px;
-  display: flex;
+
   margin-left: 450px;
   color: white;
+  text-align: center;
   padding: 20px;
 }
 
@@ -118,8 +119,7 @@
 .mix1 {
   background-image: url("Resources/footer-bg.png");
 
-  height: 500px;
+  height: 100%;
+  width: 100%;
   background-repeat: no-repeat;
-
-  
 }
